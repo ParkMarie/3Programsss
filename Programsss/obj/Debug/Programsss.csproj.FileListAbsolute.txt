@@ -1,0 +1,7 @@
+C:\Users\Маша\source\repos\Programsss\Programsss\bin\Debug\Programsss.exe.config
+C:\Users\Маша\source\repos\Programsss\Programsss\bin\Debug\Programsss.exe
+C:\Users\Маша\source\repos\Programsss\Programsss\bin\Debug\Programsss.pdb
+C:\Users\Маша\source\repos\Programsss\Programsss\obj\Debug\Programsss.csproj.AssemblyReference.cache
+C:\Users\Маша\source\repos\Programsss\Programsss\obj\Debug\Programsss.csproj.CoreCompileInputs.cache
+C:\Users\Маша\source\repos\Programsss\Programsss\obj\Debug\Programsss.exe
+C:\Users\Маша\source\repos\Programsss\Programsss\obj\Debug\Programsss.pdb
