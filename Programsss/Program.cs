@@ -13,7 +13,7 @@ namespace Programsss
         {
             int z, chisl;
             int num;
-
+            //hhhhhhh
 
             do
             {
